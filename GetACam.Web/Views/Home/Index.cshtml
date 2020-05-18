@@ -1,0 +1,12 @@
+﻿@model GetACam.Web.ViewModels.HomeViewModel
+
+<partial name="_Carousel" />
+
+<h2>Categories</h2>
+
+<div class="row">
+    @foreach (var product in Model.ProductsOfTheWeek)
+    {
+        <partial name="_ProductCard" model="product" />
+    }
+</div>

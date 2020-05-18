@@ -1,0 +1,9 @@
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\bin\Debug\netstandard2.1\GetACam.Data.deps.json
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\bin\Debug\netstandard2.1\GetACam.Data.dll
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\obj\Debug\netstandard2.1\GetACam.Data.AssemblyInfoInputs.cache
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\obj\Debug\netstandard2.1\GetACam.Data.AssemblyInfo.cs
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\bin\Debug\netstandard2.1\GetACam.Data.pdb
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\obj\Debug\netstandard2.1\GetACam.Data.dll
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\obj\Debug\netstandard2.1\GetACam.Data.pdb
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\obj\Debug\netstandard2.1\GetACam.Data.csproj.CoreCompileInputs.cache
+C:\Users\noroc\Desktop\GetACam.App\GetACam.Data\obj\Debug\netstandard2.1\GetACam.Data.csprojAssemblyReference.cache
